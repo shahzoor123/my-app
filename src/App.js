@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          updated by us <a href="https//:www.technigator.com">Technigator</a>
+          updated by us <a href="https://www.technigator.com/">Technigator</a>
           
         </p>
         
